@@ -2,7 +2,7 @@
 
 En los últimos días se volvió al debate de si el agua de la ciudad está contaminada o no, por un lado tenemos al municipio alegando que es mentira y propaganda, por el otro tenemos a parte de la población ya desconfiada de este municipio que en los últimos años se ha ganado su reputación.
 
-Esta nota en tanto busca, no encontrar un punto intermedio, sino aclarar algunos aspectos que se han pasado por alto o tergiversado en este juego político que siempre surge cuando se cuestiona a algún partido.
+Este artículo en tanto busca, no encontrar un punto intermedio, sino aclarar algunos aspectos que se han pasado por alto o tergiversado en este juego político que siempre surge cuando se cuestiona a algún partido.
 
 También personalmente me interesa evitar el pánico y generar más interés en lo que está sucediendo, para que de esta manera se puedan tomar las medidas pertinentes sin generar daños adicionales, sea a las personas o su patrimonio.
 
@@ -43,6 +43,92 @@ Para este rango aceptable tenemos una lista de valores oficiales:
 Recientemente **se está trabajando en un estudio nacional para definir un nuevo estándar adaptado geográficamente**. Todavía no tenemos el estudio como tal por lo que no podemos verificar los procedimientos ni el resultado. A ojo **se espera aunque sea una mínima variación** respecto a los estándares globales dado que **el territorio argentino, como ya fue mencionado, tiene As(V) predominando en un 90%**. A diferencia del territorio donde se realizaron los estudios para definir el estándar global, donde predominaba el As(III) y a valores superiores a 100ppb.
 
 En cualquier caso en cuanto haya novedades al respecto esta nota se va a actualizar en todos los segmentos que sea necesario.
+
+## Los valores del CAA
+
+El Código Alimentario Argentino, como otros organismos con el mismo fin, hace distinción no solo sobre el tipo de arsénico sino también sobre el elemento afectado. Entonces no es lo mismo el valor establecido para el agua que para alimentos sólidos, e incluso dentro de estas categorías pueden diferir los rangos de valores aptos para consumo según qué elemento.
+
+Por esta razón es que puede ser confuso en primera instancia, en especial considerando que en diferentes años han cambiado definiciones y leyes. Pero voy a dejar un extracto de cada una para hacerlo un poco más entendible.
+
+### CAPÍTULO III – DE LOS PRODUCTOS ALIMENTICIOS
+
+#### Artículo 156 – (Res. 1546, 17.9.85)
+«En los alimentos en general (con las excepciones particularmente previstas en el presente
+Código) se tolera la presencia de los siguientes elementos metálicos y no metálicos dentro
+de los límites que se establecen a continuación:
+Máximos – Miligramos por kilogramo
+- Arsénico en líquidos: 0,1
+- Arsénico en sólidos: 1
+
+#### REGLAMENTO TÉCNICO MERCOSUR SOBRE LÍMITES MÁXIMOS DE CONTAMINANTES INORGÁNICOS EN ALIMENTOS
+PARTE II – Límites máximos de contaminantes inorgánicos
+ARSÉNICO
+[TABLA] !Por agregar
+Aclaración: Esto es solo un extracto de los párrafos y secciones que nos competen. El capítulo es muchísimo más extenso y podes leerlo completo acá. También se puede leer la modificación específica para algas en la siguiente resolución oficial, la agrego ya que se mencionan varios puntos importantes y fue en 2024.
+
+### CAPÍTULO XII – BEBIDAS HÍDRICAS, AGUA Y AGUA GASIFICADA
+
+#### Artículo 982 – (Resolución Conjunta SCS y SAByDR N° 22/2021)
+Con las denominaciones de Agua potable de suministro público y Agua potable de uso
+domiciliario, se entiende la que es apta para la alimentación y uso doméstico: no deberá
+contener substancias o cuerpos extraños de origen biológico, orgánico, inorgánico o radiactivo
+en tenores tales que la hagan peligrosa para la salud. Deberá presentar sabor agradable y ser
+prácticamente incolora, inodora, límpida y transparente. El agua potable de uso domiciliario es
+el agua proveniente de un suministro público, de un pozo o de otra fuente, ubicada en los
+reservorios o depósitos domiciliarios.
+
+El agua potable deberá cumplir con las características físicas, químicas y criterios
+microbiológicos siguientes:
+
+Substancias inorgánicas: Arsénico (As) máx.: 0,01 mg/l;
+
+La autoridad sanitaria competente podrá admitir valores distintos si la composición normal del agua de la zona y la imposibilidad de aplicar tecnologías de corrección lo hicieran necesario.
+
+#### Artículo 983 – (Resolución Conjunta SCS y SAByDR N° 22/2021)
+Se entiende por agua de bebida envasada o agua potabilizada envasada a un
+agua de origen subterráneo o proveniente de un abastecimiento público, al agua que se
+comercialice envasada en botellas, contenedores u otros envases adecuados, provistos de la
+rotulación reglamentaria y que cumpla con las exigencias del presente artículo.
+
+La utilización de un agua proveniente de un suministro público queda condicionada a la
+aprobación de la autoridad competente, la que se deberá ajustar a las pautas sanitarias
+existentes.
+
+Substancias inorgánicas: Arsénico (As) máx.: 0,01 mg/l;
+
+CAPÍTULO XII – AGUAS MINERALES
+
+#### Artículo 985 – (Resolución Conjunta SCS y SAByDR N° 22/2021)
+1 Definición: Se entiende por Agua mineral natural un agua apta para la bebida, de origen
+subterráneo, procedente de un yacimiento o estrato acuífero no sujeto a influencia de aguas
+superficiales y proveniente de una fuente explotada mediante una o varias captaciones en los
+puntos de surgencias naturales o producidas por perforación.
+
+2 Características: El agua mineral natural debe diferenciarse claramente del agua potabilizada
+o agua común para beber debido a:
+a) su naturaleza caracterizada por su tenor en minerales y sus respectivas proporciones
+relativas, oligo-elementos y/u otros constituyentes;
+b) su pureza microbiológica original;
+
+5 Composición y factores de calidad:
+b) Caracteres químicos y fisicoquímicos:
+Arsénico: máximo 0,05 mg/l
+
+Aclaración: Esto es solo un extracto de los párrafos y secciones que nos competen. El capítulo es muchísimo más extenso y podes leerlo completo acá. También se puede leer la modificación en el Boletín Oficial.
+
+### ¿Por qué los valores no son iguales para todos?
+
+Esta es la razón por la que no incluí esta sección en la publicación original, sentía que iba a terminar siendo más confuso que de ayuda pero al final terminó siendo publicado por todos lados y cada parte tomó el elemento que más se adhiere a su argumento. El tema es el siguiente, tanto en química como física no podemos establecer consecuencias uniformes ya que los diferentes agentes tienen diferentes reacciones entre sí, incluso puede variar si varía el entorno y las cantidades (así como otros factores). Un ejemplo para hacerlo más visual sería el quita esmalte para remover pegamento, que pueda hacer eso no significa que te va a derretir la piel también. Y uso ese ejemplo porque vi bastante el de las canillas con sarro, que me parece equivalente al de mezclar gaseosa con leche y decir -«Si esto hace acá, imagínate lo que le hace a tu estómago», entiendo que la intensión sea alertar a la gente pero la forma me sigue pareciendo estúpida en especial si consideramos lo hermoso y útil que es saber de química y física.
+
+Volviendo al punto, el agua tiene valores aceptables más bajos por su química y la ausencia de otros factores que alteren el proceso al ingerirla. Caso muy distinto de los alimentos sólidos.
+
+También no quiero detallar mucho ahora porque esta es una actualización y más adelante ya expliqué como el cuerpo procesa el arsénico una vez ingerido, esta transformación también sucede en los alimentos, especialmente los derivados de animales. Por lo que el tipo de arsénico encontrado en algunos alimentos normalmente es diferente al que se encuentra en el agua.
+
+Un estudio del año 2023 que explica muy bien los diferentes tipos de arsénico y como estos aparecen en los alimentos es «El arsénico en los alimentos. ¿Debemos preocuparnos?» de Edda C. Villaamil Lepori (Facultad de Farmacia y Bioquímica de la Universidad de Buenos Aires. Argentina). Otro un poco anterior, 2020, es «Perfil de riesgo para la inocuidad de alimentos: Presencia de arsénico en Argentina» por Marion Daniel Marchetti (Ing. en Alimentos), Alejandra Tomac (Dra. en Ingeniería) y Silvina Perez (Dra. en Ingeniería), también bastante detallado y exponiendo algo de historia sobre el tema. Dejo ambos abajo de todo en «ANEXOS» para su visionado o descarga.
+
+### Duda legítima
+
+Añadiendo nuevamente este segmento y mejorándolo, me puse a pensar si los valores aceptos tienen en cuenta la ingesta total. Me explico, si bien el consumo del agua podría estar dentro de los valores seguros y el consumo de los alimentos también estarlo ¿La sumatoria de ambos no haría que el valor de ingesta diario exceda los niveles seguros? Es algo que también aplica en todos los alimentos, que algo esté dentro de los valores de ingesta diarios no va a hacer que todo lo demás ingerido no te afecte también siendo los ejemplos más comunes el azúcar o la sal. Pero como dije, la química no es tan llana y voy a ponerme a investigar más sobre este aspecto. Nuevamente cualquier novedad va a ser añadida al artículo.
 
 ## Legitimidad del estudio
 
